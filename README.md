@@ -1,4 +1,4 @@
-# HeiHeYuYin / XiaoHeiHeChat
+# HeiHeYuYin / HeyboxChat / XiaoHeiHeChat
 黑盒语音
 
 3种方式均可加入房间
